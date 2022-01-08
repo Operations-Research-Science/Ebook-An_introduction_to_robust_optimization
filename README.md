@@ -18,7 +18,7 @@
 
 0. 序言
 1. [鲁棒优化简介](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/docs/ch1.md)
-2. 概览
+2. [概览](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/docs/ch2.md)
 3. 经典鲁棒优化
 4. 分布鲁棒优化
 5. 多阶段问题与线性决策规则
