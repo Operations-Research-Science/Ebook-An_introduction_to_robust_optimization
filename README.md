@@ -17,12 +17,13 @@
 # 目录
 
 0. 序言
-1. [鲁棒优化简介](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/docs/ch1.md)
-2. [概览](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/docs/ch2.md)
-3. [经典鲁棒优化](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/docs/ch3.md)
-4. 分布鲁棒优化
-5. 多阶段问题与线性决策规则
-6. 鲁棒优化与鲁棒性优化
-7. 鲁棒优化与机器学习
-8. 鲁棒优化模型求解
+1. [鲁棒优化简介](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/PDF/ch1.pdf)
+2. [概览](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/PDF/ch2.pdf)
+3. [经典鲁棒优化1](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/PDF/ch3_1.pdf)
+   [经典鲁棒优化2](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/PDF/ch3_2.pdf)
+5. 分布鲁棒优化
+6. 多阶段问题与线性决策规则
+7. 鲁棒优化与鲁棒性优化
+8. 鲁棒优化与机器学习
+9. 鲁棒优化模型求解
 
