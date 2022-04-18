@@ -20,8 +20,10 @@
 1. [鲁棒优化简介](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/ch1.pdf)
 2. [概览：线性规划、凸优化、锥优化、风险偏好及度量](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/ch2.pdf)
 3. [经典鲁棒优化（上）：不确定最优化与不确定集](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/ch3_1.pdf)
+
    [经典鲁棒优化（下）：鲁棒对等问题与经典鲁棒模型](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/ch3_2.pdf)
 4. [分布鲁棒优化（上）：模糊集](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/ch4_1.pdf) 
+
    [分布鲁棒优化（下）：机会约束问题、分布鲁棒线性优化](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/ch4_2.pdf) 
 5. 多阶段问题与线性决策规则
 6. 目标鲁棒性优化
