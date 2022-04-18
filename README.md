@@ -17,7 +17,7 @@
 # 目录
 
 0. 序言
-1. [鲁棒优化简介](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/PDF/ch1.pdf)
+1. [鲁棒优化简介](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/ch1.pdf)
 2. [概览](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/PDF/ch2.pdf)
 3. [经典鲁棒优化1](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/PDF/ch3_1.pdf)
    [经典鲁棒优化2](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/PDF/ch3_2.pdf)
