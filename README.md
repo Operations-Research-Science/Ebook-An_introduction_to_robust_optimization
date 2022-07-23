@@ -25,7 +25,7 @@
 4. [分布鲁棒优化（上）：模糊集](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/ch4_1.pdf) 
 
    [分布鲁棒优化（下）：机会约束问题、分布鲁棒线性优化](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/ch4_2.pdf) 
-5. 多阶段问题与线性决策规则
+5. [多阶段问题与线性决策规则](https://github.com/Operations-Research-Science/Ebook-An_introduction_to_robust_optimization/blob/main/ch5.pdf)
 6. 目标鲁棒性优化
 7. 鲁棒预测与优化
 8. 鲁棒优化与机器学习
