@@ -34,6 +34,7 @@
 11. 总结及展望
 
 To cite this book: 
+
 @book{Chen2022introduction,
   title={An introduction to robust optimization},
   author={Zhi Chen, Wenjie Huang, Hanzhang Qin, Xiangyang Su, Qiuzhuang Sun, Qinshen Tang, Peng Xiong, Yu Zhang, Mingling Zhou, Taozeng Zhu},
